@@ -65,5 +65,3 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes and test them.
 4. Submit a pull request with a clear description of your changes.
 
-## Live Demo
-
